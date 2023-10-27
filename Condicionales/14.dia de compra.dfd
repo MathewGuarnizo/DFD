@@ -1,0 +1,79 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+2
+6
+dia_MG
+2
+''
+12
+uniSolido_MG
+1
+0
+4
+1
+25
+'Digite el dia de compra'
+5
+1
+6
+dia_MG
+4
+1
+47
+'Digite el valor de la unidad de estado solido'
+5
+1
+12
+uniSolido_MG
+7
+0
+1
+16
+dia_MG = 'lunes'
+7
+0
+1
+17
+dia_MG = 'sabado'
+4
+1
+39
+'El total a pagar es de ', uniSolido_MG
+13
+6
+2
+9
+descuento
+17
+uniSolido_MG*0.18
+5
+total
+22
+uniSolido_MG-descuento
+4
+1
+55
+'El total a pagar con el 18% de descuento es de ',total
+13
+13
+6
+2
+9
+descuento
+17
+uniSolido_MG*0.15
+5
+total
+22
+uniSolido_MG-descuento
+4
+1
+56
+'El total a pagar con el 15% de descuento es de ', total
+13
+1

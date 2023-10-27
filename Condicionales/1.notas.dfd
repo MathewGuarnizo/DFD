@@ -1,0 +1,50 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+8
+nota1_MG
+1
+0
+8
+nota2_MG
+1
+0
+8
+nota3_MG
+1
+0
+4
+1
+20
+'Digite las 3 notas'
+5
+1
+28
+nota1_MG, nota2_MG, nota3_MG
+6
+1
+8
+promedio
+21
+(nota1+nota2+nota3)/3
+7
+0
+1
+11
+promedio>=5
+4
+1
+50
+'Estas reprobado, tu calificaion es de ', promedio
+13
+4
+1
+50
+'Estas aprobado, tu calificacion es de ', promedio
+13
+1

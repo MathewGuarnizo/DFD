@@ -1,0 +1,50 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+5
+n1_MG
+1
+0
+5
+n2_MG
+1
+0
+7
+suma_MG
+1
+0
+4
+1
+22
+'Digite los 2 numeros'
+5
+1
+12
+n1_MG, n2_MG
+6
+1
+4
+suma
+11
+n1_MG+n2_MG
+7
+0
+1
+8
+suma>=15
+4
+1
+48
+'El resultado de la suma no supera el numero 15'
+13
+4
+1
+39
+'El resultado de la suma es de  ', suma
+13
+1

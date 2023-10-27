@@ -1,0 +1,44 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+1
+8
+horas_MG
+1
+0
+4
+1
+29
+'Digite las horas trabajadas'
+5
+1
+8
+horas_MG
+7
+0
+1
+12
+horas_MG>=20
+6
+1
+7
+salario
+14
+horas_MG*30000
+13
+6
+1
+7
+salario
+14
+horas_MG*35000
+13
+4
+1
+30
+'El salario es de  $', salario
+1
