@@ -1,0 +1,96 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+1
+8
+msmCount
+1
+0
+6
+3
+12
+msmTempMayor
+1
+0
+12
+msmTempMenor
+4
+1000
+7
+msmAcum
+1
+0
+4
+1
+66
+'Bienvenido, digite la cantidad de temperaturas que va a ingresar'
+5
+1
+10
+msmNumTemp
+9
+1
+21
+msmCount < msmNumTemp
+6
+1
+8
+msmCount
+12
+msmCount + 1
+4
+1
+40
+'Ingrese la temperatura', ' ' , msmCount
+5
+1
+7
+msmTemp
+7
+0
+1
+22
+msmTemp > msmTempMayor
+7
+1
+1
+22
+msmTemp < msmTempMenor
+6
+1
+12
+msmTempMenor
+7
+msmTemp
+13
+13
+13
+6
+1
+12
+msmTempMayor
+7
+msmTemp
+13
+6
+1
+7
+msmAcum
+17
+msmAcum + msmTemp
+11
+6
+1
+7
+msmProm
+20
+msmAcum / msmNumTemp
+4
+1
+194
+'Del las temperaturas ingresadas, la temperatura mayor es:', ' ', msmTempMayor, ' ' , 'la temperatura menor es:', ' ', msmTempMenor, ' ' , 'El promedio de las temperaturas es de:' , ' ', msmProm
+1

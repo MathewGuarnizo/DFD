@@ -1,0 +1,51 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+66
+'Bievenido, ingrese el numero del cual quiera saber sus divisores'
+5
+1
+6
+msmNum
+8
+1
+1
+i
+1
+1
+1
+1
+6
+msmNum
+1
+1
+1
+7
+0
+1
+10
+msmNum > 0
+4
+1
+35
+'Debe ingresar un numero mayor a 0'
+13
+7
+0
+1
+16
+msmNum MOD i = 0
+13
+4
+1
+36
+i, ' ', 'es divisor de', ' ', msmNum
+13
+13
+10
+1

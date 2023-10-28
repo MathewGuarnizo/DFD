@@ -1,0 +1,59 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+1
+7
+msmAcum
+1
+0
+4
+1
+54
+'Bienvenido, Ingrese la cantidad de notas a promediar'
+5
+1
+12
+msmCantNotas
+8
+1
+1
+i
+1
+1
+1
+1
+12
+msmCantNotas
+1
+1
+1
+4
+1
+25
+'Ingrese la nota', ' ', i
+5
+1
+7
+msmNota
+6
+1
+7
+msmAcum
+17
+msmAcum + msmNota
+10
+6
+1
+7
+msmProm
+22
+msmAcum / msmCantNotas
+4
+1
+56
+'El promedio de notas del estudiante es:', ' ' , msmProm
+1

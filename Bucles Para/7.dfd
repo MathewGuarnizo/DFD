@@ -1,0 +1,89 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+12
+msmNotaMayor
+1
+0
+12
+msmNotaMenor
+3
+100
+7
+msmAcum
+1
+0
+4
+1
+46
+'Bienvenido, ingrese las notas del estudiante'
+8
+1
+1
+i
+1
+1
+1
+1
+1
+5
+1
+1
+1
+4
+1
+26
+'Ingrese la nota', ' ' , i
+5
+1
+6
+msmNum
+7
+0
+1
+21
+msmNum > msmNotaMayor
+7
+1
+1
+21
+msmNum < msmNotaMenor
+6
+1
+12
+msmNotaMenor
+6
+msmNum
+13
+13
+13
+6
+1
+12
+msmNotaMayor
+6
+msmNum
+13
+6
+1
+7
+msmAcum
+16
+msmAcum + msmNum
+10
+6
+1
+7
+msmProm
+11
+msmAcum / 5
+4
+1
+110
+'Nota mayor:', ' ' , msmNotaMayor, ' ' , 'Nota menor:', ' '  , msmNotaMenor, ' '  , 'Promedio:', ' ' , msmProm
+1

@@ -1,0 +1,61 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+2
+7
+msmAcum
+1
+0
+6
+msmNum
+1
+1
+4
+1
+97
+'Bienvenido, ingrese el valor total de sus facturas, ingrese "0" si ya ingreso todos los valores'
+9
+1
+11
+msmNum != 0
+5
+1
+6
+msmNum
+6
+1
+7
+msmAcum
+16
+msmAcum + msmNum
+11
+7
+0
+1
+14
+msmAcum > 1000
+4
+1
+41
+'El total de su factura es de $', msmAcum
+13
+6
+2
+7
+msmDesc
+20
+msmAcum * (10 / 100)
+7
+msmAcum
+17
+msmAcum - msmDesc
+4
+1
+74
+'El total de su factura es de $', msmAcum, ' ', 'con un descuento del 10%'
+13
+1

@@ -1,0 +1,85 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+93
+'Bienvenido, ingrese "1" para calcular el area del triangulo, y "2" para calcular el volumen'
+5
+1
+6
+msmOpc
+7
+0
+1
+10
+msmOpc = 1
+7
+1
+1
+10
+msmOpc = 2
+4
+1
+43
+'Ingrese el area de la base de su piramide'
+5
+1
+8
+msmAreaB
+4
+1
+34
+'Ingrese la altura de su piramide'
+5
+1
+10
+msmAlturaP
+6
+1
+7
+msmVolP
+38
+((msmAreab*msmAreab) * msmAlturaP) / 3
+4
+1
+51
+'El volumen de su piramide es de:',  msmVolP, 'cm3'
+13
+4
+1
+18
+'Opción no valida'
+13
+13
+4
+1
+31
+'Ingrese la base del triangulo'
+5
+1
+7
+msmBase
+4
+1
+33
+'Ingrese la altura del triangulo'
+5
+1
+9
+msmAltura
+6
+1
+7
+msmArea
+25
+(msmBase * msmAltura) / 2
+4
+1
+51
+'El area de su triangulo es de:',   msmArea,  'cm2'
+13
+1
