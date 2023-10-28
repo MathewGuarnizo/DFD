@@ -6,16 +6,16 @@
 0
 6
 3
-9
-numero_MG
+10
+numero_MSM
 1
 0
+9
+multi_MSM
+1
+1
 8
-multi_MG
-1
-1
-7
-suma_MG
+suma_MSM
 1
 0
 4
@@ -24,13 +24,13 @@ suma_MG
 'Digite un numero'
 5
 1
-9
-numero_MG
+10
+numero_MSM
 7
 0
 1
-14
-numero_MG > 10
+15
+numero_MSM > 10
 8
 1
 1
@@ -46,15 +46,15 @@ i
 1
 6
 1
-7
-suma_MG
-9
-suma_MG+i
+8
+suma_MSM
+10
+suma_MSM+i
 10
 4
 1
-38
-'El resultado de la suma es ', suma_MG
+39
+'El resultado de la suma es ', suma_MSM
 13
 8
 1
@@ -71,14 +71,14 @@ i
 1
 6
 1
-8
-multi_MG
-10
-multi_MG*i
+9
+multi_MSM
+11
+multi_MSM*i
 10
 4
 1
-49
-'El resultado de la multiplicacion es ', multi_MG
+50
+'El resultado de la multiplicacion es ', multi_MSM
 13
 1

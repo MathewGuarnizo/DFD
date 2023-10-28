@@ -6,33 +6,57 @@
 0
 6
 3
-9
-Altura_MG
+6
+n1_MSM
 1
 0
-7
-Base_MG
+6
+n2_MSM
 1
 0
-11
-Longitud_MG
+6
+n3_MSM
 1
 0
 4
 1
-42
-'Digite la altura, la base, y la longitud'
+18
+'Digite 3 numeros'
 5
 1
-31
-Altura_MG, Base_MG, Longitud_MG
+20
+n1_MSM,n2_MSM,n3_MSM
 7
 0
+1
+13
+n1_MSM>n2_MSM
+7
 0
+1
+13
+n2_MSM>n3_MSM
+4
+1
+22
+'El mayor es ', n3_MSM
 13
 4
 1
-6
-'hola'
+22
+'El mayor es ', n2_MSM
+13
+13
+7
+0
+1
+13
+n1_MSM>n3_MSM
+13
+4
+1
+22
+'El mayor es ', n1_MSM
+13
 13
 1

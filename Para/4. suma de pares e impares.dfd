@@ -5,13 +5,17 @@
 0
 0
 6
-2
-6
-par_MG
+3
+7
+par_MSM
 1
 0
-8
-impar_MG
+9
+impar_MSM
+1
+0
+10
+numero_MSM
 1
 0
 4
@@ -20,8 +24,8 @@ impar_MG
 'Digite un numero'
 5
 1
-9
-numero_MG
+10
+numero_MSM
 8
 1
 1
@@ -30,8 +34,8 @@ i
 1
 1
 1
-9
-numero_MG
+10
+numero_MSM
 1
 1
 1
@@ -42,21 +46,21 @@ numero_MG
 i mod 2 = 0
 6
 1
-8
-impar_MG
-10
-i+impar_MG
+9
+impar_MSM
+11
+i+impar_MSM
 13
 6
 1
-6
-par_MG
-8
-i+par_Mg
+7
+par_MSM
+9
+i+par_MSM
 13
 10
 4
 1
-88
-'la suma de los numeros pares ', par_MG,' el resultado de la suma impares es ', impar_MG
+90
+'la suma de los numeros pares ', par_MSM,' el resultado de la suma impares es ', impar_MSM
 1

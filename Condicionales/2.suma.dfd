@@ -6,16 +6,16 @@
 0
 6
 3
-5
-n1_MG
+6
+n1_MSM
 1
 0
-5
-n2_MG
+6
+n2_MSM
 1
 0
-7
-suma_MG
+8
+suma_MSM
 1
 0
 4
@@ -24,19 +24,19 @@ suma_MG
 'Digite los 2 numeros'
 5
 1
-12
-n1_MG, n2_MG
+14
+n1_MSM, n2_MSM
 6
 1
-4
-suma
-11
-n1_MG+n2_MG
+8
+suma_MSM
+13
+n1_MSM+n2_MSM
 7
 0
 1
-8
-suma>=15
+12
+suma_MSM>=15
 4
 1
 48
@@ -44,7 +44,7 @@ suma>=15
 13
 4
 1
-39
-'El resultado de la suma es de  ', suma
+43
+'El resultado de la suma es de  ', suma_MSM
 13
 1

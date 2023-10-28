@@ -6,8 +6,8 @@
 0
 6
 1
-6
-USB_MG
+7
+USB_MSM
 1
 0
 4
@@ -16,19 +16,19 @@ USB_MG
 'Digite las USB a comprar'
 5
 1
-6
-USB_MG
+7
+USB_MSM
 7
 0
 1
-9
-USB_MG>=4
+10
+USB_MSM>=4
 6
 3
 6
 compra
-12
-USB_MG*15000
+13
+USB_MSM*15000
 9
 descuento
 11
@@ -42,8 +42,8 @@ compra-descuento
 3
 6
 compra
-12
-USB_MG*15000
+13
+USB_MSM*15000
 9
 descuento
 11

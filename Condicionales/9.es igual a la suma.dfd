@@ -6,16 +6,16 @@
 0
 6
 3
-5
-n1_MG
+6
+n1_MSM
 1
 0
-5
-n2_MG
+6
+n2_MSM
 1
 0
-5
-n3_MG
+6
+n3_MSM
 1
 0
 4
@@ -24,21 +24,21 @@ n3_MG
 'Digite 3 numeros'
 5
 1
-19
-n1_MG, n2_MG, n3_MG
+22
+n1_MSM, n2_MSM, n3_MSM
 7
 0
 1
-19
-n1_MG+n2_MG = n3_MG
+22
+n1_MSM+n2_MSM = n3_MSM
 4
 1
-54
-'No se cumple ya que ',n1_MG,'+',n2_MG,'=',n1_MG+n2_MG
+58
+'No se cumple ya que ',n1_MSM,'+',n2_MSM,'=',n1_MSM+n2_MSM
 13
 4
 1
-35
-'Verdad ',n1_MG,'+',n2_MG,'=',n3_MG
+38
+'Verdad ',n1_MSM,'+',n2_MSM,'=',n3_MSM
 13
 1

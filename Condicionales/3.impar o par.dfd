@@ -6,8 +6,8 @@
 0
 6
 1
-9
-numero_MG
+10
+numero_MSM
 1
 0
 4
@@ -16,21 +16,21 @@ numero_MG
 'Digite un numero'
 5
 1
-9
-numero_MG
+10
+numero_MSM
 7
 0
 1
-19
-numero_MG mod 2 = 0
+20
+numero_MSM mod 2 = 0
 4
 1
-36
-'El numero ', numero_MG, ' es impar'
+37
+'El numero ', numero_MSM, ' es impar'
 13
 4
 1
-34
-'El numero ', numero_MG, ' es par'
+35
+'El numero ', numero_MSM, ' es par'
 13
 1

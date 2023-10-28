@@ -6,16 +6,16 @@
 0
 6
 3
-8
-nota1_MG
+9
+nota1_MSM
 1
 0
-8
-nota2_MG
+9
+nota2_MSM
 1
 0
-8
-nota3_MG
+9
+nota3_MSM
 1
 0
 4
@@ -24,14 +24,14 @@ nota3_MG
 'Digite las 3 notas'
 5
 1
-28
-nota1_MG, nota2_MG, nota3_MG
+31
+nota1_MSM, nota2_MSM, nota3_MSM
 6
 1
 8
 promedio
-21
-(nota1+nota2+nota3)/3
+33
+(nota1_MSM+nota2_MSM+nota3_MSM)/3
 7
 0
 1

@@ -6,8 +6,8 @@
 0
 6
 1
-9
-sueldo_MG
+10
+sueldo_MSM
 1
 0
 4
@@ -16,62 +16,62 @@ sueldo_MG
 'Digite el sueldo neto'
 5
 1
-9
-sueldo_MG
+10
+sueldo_MSM
 7
 0
 1
-17
-sueldo_MG>1200000
+18
+sueldo_MSM>1200000
 6
 2
 9
 descuento
-14
-sueldo_MG*0.05
+15
+sueldo_MSM*0.05
 5
 total
-19
-sueldo_MG-descuento
+20
+sueldo_MSM-descuento
 4
 1
-79
-'El total sin descuento es de ',sueldo_MG, ' con descuento  de 5% es de ',total
+80
+'El total sin descuento es de ',sueldo_MSM, ' con descuento  de 5% es de ',total
 13
 7
 0
 1
-17
-sueldo_MG>3000000
+18
+sueldo_MSM>3000000
 6
 2
 9
 descuento
-14
-sueldo_MG*0.08
+15
+sueldo_MSM*0.08
 5
 total
-19
-sueldo_MG-descuento
+20
+sueldo_MSM-descuento
 4
 1
-79
-'El total sin descuento es de ',sueldo_MG, ' con descuento  de 8% es de ',total
+80
+'El total sin descuento es de ',sueldo_MSM, ' con descuento  de 8% es de ',total
 13
 6
 2
 9
 descuento
-14
-sueldo_MG*0.09
+15
+sueldo_MSM*0.09
 5
 total
-19
-sueldo_MG-descuento
+20
+sueldo_MSM-descuento
 4
 1
-79
-'El total sin descuento es de ',sueldo_MG, ' con descuento  de 9% es de ',total
+80
+'El total sin descuento es de ',sueldo_MSM, ' con descuento  de 9% es de ',total
 13
 13
 1

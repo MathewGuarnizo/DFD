@@ -6,12 +6,12 @@
 0
 6
 2
-9
-numero_MG
+10
+numero_MSM
 1
 0
-7
-suma_MG
+8
+suma_MSM
 1
 0
 4
@@ -20,8 +20,8 @@ suma_MG
 'Digite un numero'
 5
 1
-9
-numero_MG
+10
+numero_MSM
 8
 1
 1
@@ -30,20 +30,20 @@ i
 1
 1
 1
-9
-numero_MG
+10
+numero_MSM
 1
 1
 1
 6
 1
-7
-suma_MG
-9
-suma_MG+i
+8
+suma_MSM
+10
+suma_MSM+i
 10
 4
 1
-61
-'la suma de los ', numero_MG,' primeros numeros es ', suma_MG
+63
+'la suma de los ', numero_MSM,' primeros numeros es ', suma_MSM
 1
