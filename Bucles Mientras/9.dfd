@@ -9,21 +9,7 @@
 8
 msmCount
 1
-0
-6
-3
-12
-msmTempMayor
 1
-0
-12
-msmTempMenor
-4
-1000
-7
-msmAcum
-1
-0
 4
 1
 66
@@ -32,10 +18,32 @@ msmAcum
 1
 10
 msmNumTemp
+4
+1
+26
+'Ingrese la temperatura 1'
+5
+1
+7
+msmTemp
+6
+3
+12
+msmTempMayor
+7
+msmTemp
+12
+msmTempMenor
+7
+msmTemp
+7
+msmAcum
+7
+msmTemp
 9
 1
-21
-msmCount < msmNumTemp
+22
+msmCount < msmNumTemp 
 6
 1
 8
@@ -50,23 +58,29 @@ msmCount + 1
 1
 7
 msmTemp
+6
+1
+7
+msmAcum
+17
+msmAcum + msmTemp
 7
 0
 1
 22
 msmTemp > msmTempMayor
 7
-1
+0
 1
 22
 msmTemp < msmTempMenor
+13
 6
 1
 12
 msmTempMenor
 7
 msmTemp
-13
 13
 13
 6
@@ -76,12 +90,6 @@ msmTempMayor
 7
 msmTemp
 13
-6
-1
-7
-msmAcum
-17
-msmAcum + msmTemp
 11
 6
 1
