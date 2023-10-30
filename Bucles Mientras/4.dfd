@@ -1,0 +1,62 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+65
+'Ingrese dor numeros, el primer numero debe ser MENOR al segundo'
+5
+1
+7
+msmNum1
+5
+1
+7
+msmNum2
+6
+2
+8
+msmCount
+7
+msmNum1
+1
+i
+7
+msmNum1
+9
+1
+19
+msmCount <= msmNum2
+7
+0
+1
+17
+msmNum1 < msmNum2
+13
+7
+0
+1
+12
+i MOD 2 != 0
+13
+4
+1
+1
+i
+13
+13
+6
+2
+1
+i
+5
+i + 1
+8
+msmCount
+12
+msmCount + 1
+11
+1

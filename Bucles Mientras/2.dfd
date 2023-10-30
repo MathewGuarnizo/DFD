@@ -1,0 +1,53 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+2
+7
+msmAcum
+1
+0
+1
+i
+1
+0
+4
+1
+22
+'Ingrese algun numero'
+5
+1
+6
+msmNum
+9
+1
+16
+msmAcum < msmNum
+7
+0
+1
+11
+i MOD 2 = 0
+13
+6
+1
+8
+msmAcum 
+11
+msmAcum + i
+13
+6
+1
+1
+i
+5
+i + 1
+11
+4
+1
+79
+'La suma de numeros pares desde 0 hasta', ' ', msmNum, ' ', 'es:', ' ', msmAcum
+1

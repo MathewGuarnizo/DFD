@@ -1,0 +1,58 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+2
+8
+msmCount
+1
+0
+1
+i
+1
+1
+4
+1
+58
+'Ingrese un numero mayor a 0 y se mostrarán sus divisores'
+5
+1
+6
+msmNum
+9
+1
+17
+msmNum > msmCount
+7
+0
+1
+10
+msmNum > 0
+13
+7
+0
+1
+16
+msmNum MOD i = 0
+13
+4
+1
+39
+'Divisor de', ' ', msmNum, ':', ' ', i 
+13
+13
+6
+2
+8
+msmCount
+12
+msmCount + 1
+1
+i
+5
+i + 1
+11
+1

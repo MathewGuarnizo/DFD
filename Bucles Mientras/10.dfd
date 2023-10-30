@@ -1,0 +1,110 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+36
+'ingrese la cantidad de estudiantes'
+5
+1
+10
+msmCantEst
+6
+3
+6
+msmMax
+1
+0
+6
+msmMin
+3
+100
+7
+msmAcum
+1
+0
+6
+1
+14
+msmContCantEst
+1
+0
+9
+1
+27
+msmContCantEst < msmCantEst
+8
+1
+1
+i
+1
+1
+1
+1
+1
+3
+1
+1
+1
+4
+1
+25
+'ingrese la nota', ' ', i
+5
+1
+10
+msmNotaEst
+7
+0
+1
+19
+msmNotaEst > msmMax
+7
+1
+1
+19
+msmNotaEst < msmMin
+6
+1
+6
+msmMin
+10
+msmNotaEst
+13
+13
+13
+6
+1
+6
+msmMax
+10
+msmNotaEst
+13
+6
+1
+7
+msmAcum
+20
+msmAcum + msmNotaEst
+10
+6
+1
+14
+msmContCantEst
+18
+msmContCantEst + 1
+11
+6
+1
+7
+msmProm
+26
+msmAcum / (msmCantEst * 3)
+4
+1
+80
+'Nota menor', ' ' , msmMin, 'Nota mayor', ' ', msmMax, 'promedio', ' ' , msmProm
+1

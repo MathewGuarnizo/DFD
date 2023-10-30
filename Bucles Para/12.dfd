@@ -1,0 +1,101 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+47
+'Ingrese la cantidad de temperaturas a evaluar'
+5
+1
+11
+msmCantTemp
+4
+1
+26
+'ingrese la temperatura 1'
+5
+1
+7
+msmTemp
+6
+3
+6
+msmMax
+7
+msmTemp
+6
+msmMin
+7
+msmTemp
+7
+msmAcum
+7
+msmTemp
+8
+1
+1
+i
+1
+1
+2
+1
+11
+msmcantTemp
+1
+1
+1
+4
+1
+32
+'ingrese la temperatura', ' ', i
+5
+1
+7
+msmTemp
+7
+0
+1
+16
+msmTemp > msmMax
+7
+1
+1
+16
+msmTemp < msmMin
+6
+1
+6
+msmMin
+7
+msmTemp
+13
+13
+13
+6
+1
+6
+msmMax
+7
+msmTemp
+13
+6
+1
+7
+msmAcum
+17
+msmAcum + msmTemp
+10
+6
+1
+7
+msmProm
+21
+msmAcum / msmCantTemp
+4
+1
+122
+'Temperatura mas alta:', ' ', msmMax, ' ', 'Temperatura mas baja:', ' ', msmMin, ' ', 'Temperatura promedio', ' ', msmProm
+1

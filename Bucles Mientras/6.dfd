@@ -1,0 +1,58 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+2
+8
+msmCount
+1
+0
+7
+msmAcum
+1
+0
+4
+1
+47
+'Digite la cantidad de notas que va a ingresar'
+5
+1
+12
+msmCantNotas
+9
+1
+23
+msmCount < msmCantNotas
+4
+1
+36
+'Ingrese la nota', ' ', msmCount + 1
+5
+1
+7
+msmNota
+6
+2
+7
+msmAcum
+17
+msmAcum + msmNota
+8
+msmCount
+12
+msmCount + 1
+11
+6
+1
+7
+msmProm
+22
+msmAcum / msmCantNotas
+4
+1
+56
+'El promedio de las notas ingresadas es:' , ' ', msmProm
+1
